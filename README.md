@@ -31,9 +31,10 @@ I'm **Hassan Babar**, a **Junior Full-Stack Developer** with a strong foundation
 - npm / yarn
 
 **Other**
-- Basic system design concepts
+- Software Engineering and System Designs
 - API integration
-- Debugging and problem-solving
+- Debugging
+- Problem Solving
 
 ### 📫 Get in Touch
 - GitHub: [https://github.com/hassanbabar78](https://github.com/hassanbabar78)
