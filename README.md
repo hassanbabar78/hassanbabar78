@@ -1,15 +1,15 @@
 ## Hi there
 
-I am **Hassan Babar**, a **Junior Full-Stack Developer** with practical experience in building structured, scalable, and maintainable web applications. I focus on writing clean code, following best practices, and continuously improving my understanding of modern web technologies and system design fundamentals.
+I am **Hassan Babar**, a **Junior Full-Stack Developer** with practical experience in building structured, scalable, and maintainable Web Applications. I focus on writing clean code, following best practices, and continuously improving my understanding of modern Web Technologies and system design fundamentals.
 
-I enjoy working across the full development stack, from designing responsive user interfaces to developing backend services and integrating databases. My goal is to grow as a well-rounded software engineer by solving real-world problems and contributing to meaningful projects.
+I enjoy working across the full stack development, from designing responsive user interfaces to developing backend services and integrating databases. My goal is to grow as a well-rounded software engineer by solving real-world problems and contributing to meaningful projects.
 
 ---
 
 ## Professional Summary
 
-- Junior-level expertise in full-stack web development
-- Experience building scalable and modular applications
+- Junior-level expertise in full-stack Web development
+- Experience building scalable and modular Applications
 - Strong understanding of frontend–backend integration
 - Familiar with RESTful architectures and API-driven development
 - Committed to continuous learning and technical improvement
@@ -43,9 +43,9 @@ I enjoy working across the full development stack, from designing responsive use
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) (basic)
 
-- Schema design and data modeling
+- Data modeling and Schema design
 - CRUD operations and query optimization basics
 
 ---
@@ -72,7 +72,7 @@ I enjoy working across the full development stack, from designing responsive use
 - Strengthen backend architecture and system design knowledge
 - Gain deeper experience in scalable application development
 - Contribute to open-source and collaborative projects
-- Grow into a mid-level full-stack engineer through real-world experience
+- Grow into a senior full-stack developer and software engineer through real-world experiences
 
 ---
 
