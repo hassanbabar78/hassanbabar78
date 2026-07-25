@@ -1,14 +1,14 @@
 ## Hi there
 
-I am **Hassan Babar**, a **Junior Full-Stack Developer** with practical experience in building structured, scalable, and maintainable Web Applications. I focus on writing clean code, following best practices, and continuously improving my understanding of modern Web Technologies and system design fundamentals.
+I am **Muhammad Hassan**, a **Software Engineer and Full Stack Developer** with practical experience in building structured, scalable, and maintainable Web Applications. I focus on writing clean code, following best practices, and continuously improving my understanding of modern Web Technologies and system design fundamentals.
 
-I enjoy working across the full stack development, from designing responsive user interfaces to developing backend services and integrating databases. My goal is to grow as a well-rounded software engineer by solving real-world problems and contributing to meaningful projects.
+I enjoy working across the full stack development, from designing responsive user interfaces to developing backend services and integrating databases. My goal is to grow as a senior software engineer by solving real-world problems and contributing to meaningful projects.
 
 ---
 
 ## Professional Summary
 
-- Junior-level expertise in full-stack Web development
+- Software Engineer and Full Stack Developer
 - Experience building scalable and modular Applications
 - Strong understanding of frontend–backend integration
 - Familiar with RESTful architectures and API-driven development
